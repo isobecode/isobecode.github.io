@@ -167,8 +167,8 @@ tbody td {
   vertical-align: top;
 }
 
-tbody td:first-child { width: 35%; }
-tbody td:nth-child(2) { color: var(--muted); width: 45%; }
+tbody td:first-child { width: 45%; }
+tbody td:nth-child(2) { color: var(--muted); width: 35%; }
 tbody td:last-child   { color: var(--muted); text-align: right; }
 
 /* ── Responsive ── */
